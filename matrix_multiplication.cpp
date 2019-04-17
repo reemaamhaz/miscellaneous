@@ -1,5 +1,5 @@
 /*
-  	Reema Amhaz - CS 135 - Section 1003
+  	Reema Amhaz - 
         This program will multiply two integer matrices and output the results to a
         third matrix. There will be an error if the correct number of arguments is
         not provided and a different error if either of the files cannot be opened.
